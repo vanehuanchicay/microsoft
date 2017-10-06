@@ -1,0 +1,29 @@
+/* text aling nos sirve para alinear los textos e imagenes de la pagina */
+body {
+    text-align: center;
+    font-family: montserrat; /* pongo aca mi familia tipografica si quiero q cambie toda la typo de la pag*/
+
+}
+
+/* cuando llamamos una class se hace con un punto */
+.tittle {
+/*  background-color: black;  color con el nombre en ingles del color*/
+    background-color: #000000  /*color hexadecimal*/
+/*  background-color: rgb(0, 0, 0);color a traves de valores rgb */
+
+}
+
+h3{
+  font-family: Rye;
+}
+h3{
+  font-family: Rye;
+}
+img.grande{
+  width: 45%;
+  margin-top: 70px;
+}
+img.pequeña{
+  width: 60%;
+  margin-top: 20px;
+}
